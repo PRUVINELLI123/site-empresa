@@ -1,7 +1,27 @@
-header{
-    height: 250px;
-    width:100%;
-    background-image: url(https://master.restaurantemadero.com.br/assets/site/images/image004.png);
-    display: block;
-    float: left;
+body{
+    font: 20px, Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #FF7D33;
+}
+
+#quemsomos{
+    background-color: #AFFF33;
+    color: #FFFFFF;
+}
+
+.margin{
+    padding-bottom: 50px;
+    color: white;
+}
+
+.parceiros{
+    background-color: #33FFE5;
+}
+
+.bg-footer > p{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 50px;
 }
